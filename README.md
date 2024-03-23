@@ -1,6 +1,6 @@
 ## Olá, me chamo Paulo Gobbi.
 
-- 🏙️ São Paulo capital.
+- 🏙️ Morando atualmente em São Paulo capital.
 - 🌱 Estudando JavaScript, HTML e CSS.
 - 👨‍💻 Atualmente procurando estágio na área.
 
