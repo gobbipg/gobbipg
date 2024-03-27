@@ -2,7 +2,7 @@
 
 - 🏙️ Morando atualmente em São Paulo capital.
 - 🌱 Estudando JavaScript, HTML e CSS.
-- 👨‍💻 Atualmente procurando estágio na área.
+- 👨‍💻 Procurando estágio na área.
 
 <br>
 
