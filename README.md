@@ -1,7 +1,7 @@
 ## Olá, me chamo Paulo Gobbi.
 
 - 🏙️ Morando atualmente em São Paulo capital.
-- 🌱 Começando a estudar C / C++.
+- 🌱 Começando a estudar linguagem C.
 - 👨‍💻 Procurando estágio na área.
 
 <br>
@@ -16,9 +16,9 @@
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="gobbipg-c" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="gobbipg-c" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="gobbipg-c" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="gobbipg-c" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="center" alt="gobbipg-python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="gobbipg-nodejs" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ##
