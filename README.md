@@ -1,7 +1,7 @@
 ## Olá, me chamo Paulo Gobbi.
 
 - 🏙️ Morando atualmente em São Paulo capital.
-- 🌱 Começando a estudar linguagem Java.
+- 🌱 Começando a estudar.
 - 👨‍💻 Procurando estágio na área.
 
 <br>
@@ -16,7 +16,7 @@
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="gobbipg-python" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="gobbipg-python" heigth="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ##
