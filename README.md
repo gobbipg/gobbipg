@@ -2,6 +2,7 @@
 
 - 🏙️ Morando atualmente em São Paulo capital.
 - 🌱 Começando com Python.
+- ✍️ Cursando Análise de Sistemas.
 - 👨‍💻 Procurando estágio na área.
 
 <br>
