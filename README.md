@@ -1,7 +1,7 @@
 ## Olá, me chamo Paulo Gobbi.
 
 - 🏙️ Morando atualmente em São Paulo capital.
-- 🌱 Começando com Python.
+- 🌱 Estudando Python.
 - ✍️ Cursando Análise de Sistemas.
 - 👨‍💻 Procurando estágio na área.
 
