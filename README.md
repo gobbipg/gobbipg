@@ -1,8 +1,7 @@
 ## Olá, me chamo Paulo Gobbi.
 
-- 🏙️ Morando atualmente em São Paulo capital.
-- ✍️ Cursando Análise de Sistemas.
-- 👨‍💻 Procurando estágio na área.
+Olá, tudo certo?
+Atualmente estou um pouco parado da programação e os estudos, no entanto, estou voltando a estudar e tentando migrar de carreira. 
 
 <br>
 
@@ -16,7 +15,6 @@
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="gobbipg-csharp" heigth="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="gobbipg-python" heigth="38" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
