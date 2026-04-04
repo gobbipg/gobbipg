@@ -1,6 +1,6 @@
 ## Olá, me chamo Paulo Gobbi.
 
-Olá, tudo certo?
+Tudo certo?
 Atualmente estou um pouco parado da programação e os estudos, no entanto, estou voltando a estudar e tentando migrar de carreira. 
 
 <br>
